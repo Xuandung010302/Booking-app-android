@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TickerBookApp</string>
+    <string name="intro_tittle">MUA VÉ MÁY BAY TẾT ẤT TỴ 2025\n CÙNG VIETNAM AIRLINES</string>
+    <string name="intro_subtittle">Đừng bỏ lỡ Ưu đãi đồng giá vé Tết 2025\n từ Vietnam Airlines trên các chuyến bay chỉ từ 666.000 VND/chiều (đã bao gồm thuế, phí).</string>
+    <string name="mua_ngay">Mua Ngay</string>
+    <string name="vietnam_airlines">VietNam Airlines</string>
+    <string name="b_t_u_ngay">Bắt Đầu Ngay</string>
+    <string name="ng_nh_p">Đăng nhập</string>
+    <string name="from">From</string>
+    <string name="xuan_dung">Xuan Dung</string>
+    <string name="title_main">Hãy khám phá thế giới\n cùng chúng tôi!!!</string>
+    <string name="to">To</string>
+    <string name="passengers">Passengers</string>
+    <string name="departure_date">Departure Date</string>
+    <string name="search_flights">Search Flights</string>
+</resources>

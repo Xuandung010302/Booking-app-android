@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996203649821",
+    "project_id": "tickerbookapp-1",
+    "storage_bucket": "tickerbookapp-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996203649821:android:eea24b4c81a6bde357dff4",
+        "android_client_info": {
+          "package_name": "com.example.tickerbookapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGLJSK03ecnYSOvtcWn41LoVkyu89nVks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
